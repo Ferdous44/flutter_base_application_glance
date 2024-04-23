@@ -1,0 +1,1 @@
+# fulleter_base_application_glance
